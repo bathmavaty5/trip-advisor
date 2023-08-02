@@ -1,0 +1,11 @@
+# Site settings
+title: Malaysia Trip Advisor
+author:
+  name: Bathmavaty
+  email: bathmavatysiluraja@dhl.com
+description: 
+
+ 
+
+# Build settings
+remote_theme: jekyll/minima
