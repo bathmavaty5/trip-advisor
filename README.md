@@ -1,14 +1,4 @@
-# Malaysia Trip Advisor
-
-### Things to do
-
-### Viral Restaurants
-
-### Hotels
-
-### Map
-
-### Tourism Places
+This is a assignment to build a website
 
 
 
