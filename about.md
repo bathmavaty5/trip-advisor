@@ -9,16 +9,3 @@ title: Home
 
  
 
-Hi, I'm Farisha!
-
- 
-
-Welcome to my website where you may see my skills, interests, academic achievements and work experiences.
-
- 
-
- 
-
-- focus and topic area
-- people involved
-- code and projects used
