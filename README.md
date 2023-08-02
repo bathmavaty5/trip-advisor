@@ -1,4 +1,6 @@
-This is a assignment to build a website
+Welcome to Malaysia Trip Advisor
+
+Here you can explore informations like Famous restaurants, Hotels, etc
 
 
 
